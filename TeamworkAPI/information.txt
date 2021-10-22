@@ -1,0 +1,11 @@
+I have found following POSTMAN collection to get data from Teamwork API
+POSTMAN Collection URL : https://www.getpostman.com/collections/ce822563b55b711ae12c
+
+to do log in postman I used following credentials
+username : emailtesterthree@gmail.com
+passwrod : test@postman@kgn
+
+teamwork.php file contains logic to get data for following
+	i)RETRIEVE ALL PROJECTS
+	ii)RETRIEVE ALL BOARDS LIST FOR PARTICULAR PROJECT
+	iii)RETRIEVE ALL TASK LIST FROM SINGLE BOARD COLUMN (BOARD COLUMN As like Open, In progress, Review, etc.)
